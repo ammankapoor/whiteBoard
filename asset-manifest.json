@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/whiteBoard/static/css/main.c70b2a86.chunk.css",
+    "main.js": "/whiteBoard/static/js/main.28dbb61e.chunk.js",
+    "main.js.map": "/whiteBoard/static/js/main.28dbb61e.chunk.js.map",
+    "runtime-main.js": "/whiteBoard/static/js/runtime-main.1d68bb44.js",
+    "runtime-main.js.map": "/whiteBoard/static/js/runtime-main.1d68bb44.js.map",
+    "static/js/2.57a7043f.chunk.js": "/whiteBoard/static/js/2.57a7043f.chunk.js",
+    "static/js/2.57a7043f.chunk.js.map": "/whiteBoard/static/js/2.57a7043f.chunk.js.map",
+    "index.html": "/whiteBoard/index.html",
+    "precache-manifest.1fa74ea044ed9a78bf68ce208d8abb58.js": "/whiteBoard/precache-manifest.1fa74ea044ed9a78bf68ce208d8abb58.js",
+    "service-worker.js": "/whiteBoard/service-worker.js",
+    "static/css/main.c70b2a86.chunk.css.map": "/whiteBoard/static/css/main.c70b2a86.chunk.css.map",
+    "static/js/2.57a7043f.chunk.js.LICENSE.txt": "/whiteBoard/static/js/2.57a7043f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1d68bb44.js",
+    "static/js/2.57a7043f.chunk.js",
+    "static/css/main.c70b2a86.chunk.css",
+    "static/js/main.28dbb61e.chunk.js"
+  ]
+}
