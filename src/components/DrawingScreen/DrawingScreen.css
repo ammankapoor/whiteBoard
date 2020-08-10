@@ -1,0 +1,27 @@
+.drawing-container {
+    border: 1px solid black;
+    border-radius: 5px;
+    margin:10px;
+}
+
+.title {
+    color: #4959AC;
+    font-size: 30px;
+    
+}
+
+.title-div {
+    display: flex;
+    align-items: center;
+    padding: 0px 10px;
+    justify-content: space-between;
+    padding-bottom: 10px;
+    box-shadow: 0 8px 10px 0 rgba(0,0,0,0.2);
+}
+
+.options {
+    display: flex;
+    align-items: center;
+}
+
+
